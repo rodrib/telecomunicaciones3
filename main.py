@@ -1,10 +1,10 @@
 #import library
 import streamlit as st
 
-st.title("Que te quiero decir con esto Marcelo")
+st.title("Dashboard de Telecomunicaciones Argentina")
 
 st.markdown("***")
-st.markdown("## Esto es un Dashboard")
+st.markdown("## Telecomunicaciones")
 
-st.sidebar.markdown("Analisis de df")
+st.sidebar.markdown("Analisis de df extraidos de Enacom")
 
