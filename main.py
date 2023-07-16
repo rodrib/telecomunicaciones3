@@ -81,3 +81,9 @@ st.markdown(link_eda)
 st.sidebar.markdown("Analisis de df extraidos de Enacom")
 
 
+st.markdown("# Resumen")
+
+texto_markdown3 = "Se encuentra en la ultima visualizacion"
+
+st.markdown(texto_markdown3)
+
