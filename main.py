@@ -22,6 +22,44 @@ texto_markdown = """
 
 st.markdown(texto_markdown)
 
+st.markdown("## Somos Data_So")
+
+texto_markdown1 = """
+-Somos una empresa de Data + Soluciones Operativas (SO) = Data_So
+
+-Nos enfoncamos en brindar soluciones a todo tipo de problemas de datos.
+
+-Construimos una respuestas en base a los requerimientos del cliente.
+
+-Y como nos apasiona lo que hacemos, estamos 24/7 para cualquier consulta
+
+-A partir de ahora construyamos esta historia junto, donde analizaremos las oportunidades, ventajas y desventajas.
+
+"""
+
+st.markdown(texto_markdown1)
+
+st.markdown("## Guia")
+
+texto_markdown2 = """
+-A la izquierda hay un panel de visualizaciones para interactuar
+
+->Visualizacion1: Acceso a Internet fijo por tecnología y provincia.
+
+->Visualizacion2: Internet_Accesos-por-tecnologia.
+
+->Visualizacion3: Internet_Accesos-por-tecnologia.
+
+->Visualizacion4: Velocidad media de bajada de Internet fijo por provincia.
+
+->Visualizacion5: Denuncias_y_reclamos_202306-1.
+
+->Kpi : Acceso a Internet fijo por tecnología y provincia.
+
+"""
+
+st.markdown(texto_markdown2)
+
 st.sidebar.markdown("Analisis de df extraidos de Enacom")
 
 
