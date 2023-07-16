@@ -27,6 +27,8 @@ Telecomunicaciones Argentina
 -A partir de ahora construyamos esta historia junto, donde analizaremos las oportunidades, ventajas y desventajas.
 
 # Link del Dashboard
+https://mainpy-eulh7d1l62m.streamlit.app/
+
 
 
 # Dataset usados en el EDA
