@@ -25,7 +25,7 @@ st.markdown(texto_markdown)
 st.markdown("## Somos Data_So")
 
 texto_markdown1 = """
--Somos una empresa de Data + Soluciones Operativas (SO) = Data_So
+-Somos una empresa de Data + Soluciones Optimas (SO) = Data_So
 
 -Nos enfoncamos en brindar soluciones a todo tipo de problemas de datos.
 
@@ -54,11 +54,29 @@ texto_markdown2 = """
 
 ->Visualizacion5: Denuncias_y_reclamos_202306-1.
 
-->Kpi : Acceso a Internet fijo por tecnología y provincia.
+->Kpi :
 
+Acceso a Internet fijo por tecnología y provincia
+---> Usamos Penetracion de la Fibra Optica
+
+Internet_Ingresos
+---> Ingresos Trimestrales
+
+Internet_Penetracion
+---> Variaciones Trimestrales y Anuales
+
+Denuncias_y_reclamos_202306-1
+---> Total de Reclamos por Mes
 """
 
 st.markdown(texto_markdown2)
+
+
+st.markdown("# EDA completo")
+
+link_eda = "https://colab.research.google.com/drive/1F8Ol8UTifHitnDf9plV360CIDNuHCOJN?usp=drive_link"
+
+st.markdown(link_eda)
 
 st.sidebar.markdown("Analisis de df extraidos de Enacom")
 
